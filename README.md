@@ -1,4 +1,4 @@
-# Fiap.Web.Alunos
+# WebLoja
 
 Fiap.Web.Alunos é uma aplicação web desenvolvida com ASP.NET Core MVC, destinada à gestão de clientes, pedidos, produtos e lojas. Este projeto acadêmico simula funcionalidades de um sistema de controle comercial, usando boas práticas de desenvolvimento web, como padrão MVC, injeção de dependência e persistência com Entity Framework.
 
